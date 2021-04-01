@@ -38,10 +38,10 @@ development while letting others work on some of the back-end and database.
 ## Outside of Academics and Career
 
 ### Hobbies and Passions
-I workout 5 to 6 days a week. It's helped me build a routine and stay mentally
+- *Working out:* I workout 5 to 6 days a week. It's helped me build a routine and stay mentally
 and physically healthy. I've also met some life long friends along the way
 
-I've been filming and editing videos for the last 9 years. lately with covid,
+- *Videography:* I've been filming and editing videos for the last 9 years. lately with covid,
 I've gotten more into editing.
 
 ### Favoriote Quote
