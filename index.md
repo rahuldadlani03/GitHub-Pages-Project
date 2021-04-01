@@ -38,11 +38,13 @@ development while letting others work on some of the back-end and database.
 ## Outside of Academics and Career
 
 ### Hobbies and Passions
-- **Working out:** I workout 5 to 6 days a week. It's helped me build a routine and stay mentally
-and physically healthy. I've also met some life long friends along the way.
+- **Working out:** I workout 5 to 6 days a week. It's helped me build a routine
+and stay mentally and physically healthy. I've also met some life long friends 
+along the way.
 
-- **Videography:** I've been filming and editing videos for the last 9 years. lately with covid,
-I've gotten more into editing.
+- **Videography:** I've been filming and editing videos for the last 9 years. 
+Lately with covid, I've leaned into editing since I can't go outside as much
+and have been enjoying switching from Final Cut Pro X to Davinci Resolve.
 
 ### Favoriote Quote
 > Start early, start often -Rick Ord
