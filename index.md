@@ -1,53 +1,46 @@
 # Rahul Dadlani
 
 ## *Who am I?*
-I'm a third year, Math-CS major. I've spent the last few years establishing a
-base in mathematics, computer science, and software engineering. 
+I'm a fourth-year, Math and Computer Science student at UC San Diego. 
+I work on design and software engineering.
 
 ## Professional Experience
-I've had a software engineering internship at a robotics company, 
-CloudMinds Technology, and another one at Amazon under their Amazon Game Studios
-(AGS) org.
+I spent my first summer at UCSD interning at CloudMinds Technology,
+a robotics company, migrating their codebase in Unity for
+simulating and encoding our robots' movement to Unreal Engine.
 
-My professional experience has been a lot of game development. Obviously at AGS
-but also in CloudMinds where I worked on some experimental features of 
-simulating their irl robots in Unreal Engine.
+My second summer I worked for Amazon on New World, a MMORPG game
+where I improved the immersiveness of the game by allowing players
+to interact with cosmetic objects in the game world. 
+
+Currently I'm working at Ascension, a health-care company based on
+the east coast.
 
 ## Personal Projects
-Outside of professional projects, I enjoy coming up with ideas for apps/websites
-etc and bringing them to life. I find working on these projects with a team is 
-great!
+I enjoy coming up with ideas for apps/websites/etc and bringing them to life. 
 
-Knowing that I can materialize an idea to a working product is empowering for me
-and I like to work on long term projects that give me an opportunity to do so.
+My first major undertaking was an app called *Tally**, a classroom management app for 
+teachers. Over the course of 9 months a friend and I developed a front and back end
+for teachers to assign participation points and seating charts to students. We deployed
+the app and hosted a beta on Apple's TestFlight. I was able to explore the basics of web 
+develeopment working on things like modeling data in a relational database, 
+implementing authentication, and deploying the app on Google Cloud Platform.
 
-In my first project, I created **Tally**, a classroom management app for 
-teachers. It took me over 9 months and I was able to deploy and have a working
-demo which I got to show to recruiters. I learned the basics of web develeopment
-and got a ton of experience in back-end development, modeling data in relational
-database, authentication, and deployment. This app indirectly got me an
-internship at Amazon.
-
-In my most recent project, I'm working on an advertising service. Since the idea
-is still in development, I'll leave it unnamed. This has been my most involved
-project till date and I've had the chance to lead a team of 5 other people on
-it. With this project, I designed the architecture and tackled front-end 
-development while letting others work on some of the back-end and database.
-**_We're hoping to launch soon!_**
+The next project I worked on was called AdBot, an advertising platform for Discord.
+This project allowed me to
 
 ## Outside of Academics and Career
 
 ### Hobbies and Passions
-- **Working out:** I workout 5 to 6 days a week. It's helped me build a routine
+- **Weight-lifting:** I workout 5 to 6 days a week. It's helped me build a routine
 and stay mentally and physically healthy. I've also met some life long friends 
 along the way.
 
 - **Videography:** I've been filming and editing videos for the last 9 years. 
-Lately with covid, I've leaned into editing since I can't go outside as much
-and have been enjoying switching from Final Cut Pro X to Davinci Resolve.
+Artistic aspect aside, it's been interesting seeing how similar the process is
+deliverving a video to delivering code.
 
 ### Favoriote Quote
 > Start early, start often -Rick Ord
 
 # Thanks for stopping by!
-
